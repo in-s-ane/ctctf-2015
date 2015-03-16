@@ -1,0 +1,8 @@
+Flood fill background white to maek the barcode visible.
+Save image to barcode.jpg
+Install zbar-tools and run:
+>> zbarimg barcode.jpg
+CODE-128:flag: useless_fact_the_1st_barcode_scanned_was_for_gum
+scanned 1 barcode symbols from 1 images in 0.11 seconds
+
+So our flag is useless_fact_the_1st_barcode_scanned_was_for_gum

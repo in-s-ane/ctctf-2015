@@ -1,0 +1,1 @@
+Unzip logo.jpg to get steg1.png, which is an image of the flag: THAT_STEGO_WASNT_TOO_DIFFICULT_WAS_IT

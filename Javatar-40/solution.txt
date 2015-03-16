@@ -1,0 +1,10 @@
+Fire up JD-GUI to decompile Javatar.class
+
+Upon decompiling, we can see that we have to input WHOISTHEJAVATAR in order to
+get the decrypted flag, so let's run the program and give it WHOISTHEJAVATAR as
+an argument. At this point, we may run into problems due to java compiler version
+mismatches, so we can just recompile it using this decompiled source code. Now,
+we can run it and we get the flag:
+
+>> java Javatar WHOISTHEJAVATAR
+KELVINISTHEJAVATAR

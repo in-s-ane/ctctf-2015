@@ -1,0 +1,20 @@
+This is a substitution cipher, so to make our lives easier, let's use an
+automated tool, the amazing http://www.quipqiup.com/index.php
+
+After decrypting, we get 
+IO CRYPTOGRAPHY, A SUBSTITUTIOO CIPHER IS A METHOD OF EOCODIOG BY WHICH UOITS OF
+PLAIOTEXT ARE REPLACED WITH CIPHERTEXT, ACCORDIOG TO A REGULAR SYSTEM; THE
+'UOITS' MAY BE SIOGLE LETTERS (THE MOST COMMOO), PAIRS OF LETTERS, TRIPLETS OF
+LETTERS, MIXTURES OF THE ABOVE, AOD SO FORTH. FOR THE FLAG, IT'S ~EEPITCLEAO
+
+Clearly, some of the necessary substitutions are still missing, but we have
+enough information to extrapolate what they are. Making the substitution of N
+for O in various places and K for ~, we get:
+
+IN CRYPTOGRAPHY, A SUBSTITUTION CIPHER IS A METHOD OF ENCODING BY WHICH
+UNITS OF PLAINTEXT ARE REPLACED WITH CIPHERTEXT, ACCORDIOG TO A REGULAR SYSTEM;
+THE 'UNITS' MAY BE SINGLE LETTERS (THE MOST COMMON), PAIRS OF LETTERS, TRIPLETS
+NF LETTERS, MIXTURES OF THE ABOVE, AOD SO FORTH. FOR THE FLAG, IT'S
+KEEPITCLEAN
+
+So our flag is: KEEPITCLEAN
