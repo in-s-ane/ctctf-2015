@@ -1,0 +1,10 @@
+First up, it was, with the exception of failedxyz and door
+
+Now that's over, this question...
+
+Classic stego... One simply do:
+>>> strings easysteg.jpg | grep "flag
+
+ders.are.important......flag:this_steg_was_waaay_too_easy_to_find
+
+and there you have it.

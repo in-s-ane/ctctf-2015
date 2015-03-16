@@ -1,0 +1,11 @@
+#466c61 
+#673a20 
+#207468 
+#61745f 
+#776173 
+#5f657a
+
+Huh... Let's see, numbers... Hex numbers... hex-ascii!
+
+Doing  a little decryption, we get:
+Flag:  that_was_ez

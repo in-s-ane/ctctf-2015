@@ -1,0 +1,10 @@
+This was fun. When you download the file, you find something very fishy -- it's
+a gif, which is weird since it looks like a static barcode. So let's disassemble
+it:
+
+>>> gifsicle -e patience.gif
+
+The output of which is in the subfolder "patience," on the last frame you'll see
+the real flag:
+
+not_the_barcode
