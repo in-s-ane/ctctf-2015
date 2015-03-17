@@ -1,0 +1,9 @@
+This question is about Lucas's Numbers, something that is closely related to the
+Fibonaccis. (http://oeis.org/A000032). First sus thing, the file's letter
+distribution is unervingly even... If you use the frequencyAnalyser, you'll see
+that it's all around 3.8%. However, there is something very sus about the length
+of the file, it contains 271442 chars and 271443 is a number in Lucas' Sequence.
+So we just isolate the letters at Lucas sequence indices... Follow lucas.py and
+you'll get the answer:
+
+WLUCASNUMBERSAREPRETTYCOOL
