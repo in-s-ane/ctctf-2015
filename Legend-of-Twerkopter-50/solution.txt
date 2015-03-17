@@ -1,0 +1,9 @@
+The way this competition frame their flags is really chessing me off...
+
+Ok so we know that .xap files are basically .zip files. So we unzip, then we
+just open WMAppManifest.xml, and at the very bottom, WITH NO INDICATION THAT
+IT'S THE FLAG, we find the flag:
+<!-- XAP_for_XNA -->
+
+so the flag is
+XAP_for_XNA
