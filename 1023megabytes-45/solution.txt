@@ -1,0 +1,4 @@
+Google "Michael Zhang flag"
+
+You get a link to the Classy fundraising page, where the flag is located:
+flag{9cdfb439c7876e703e307864c9167a15}
