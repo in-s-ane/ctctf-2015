@@ -3,7 +3,6 @@ import urllib2
 HOST = "http://vulnserver-failedxyz.c9.io/login.php"
 
 def con(username , password , char , answer):
-    # sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     TMP = HOST + "?username=" + username + "&password=" + password
     TMP = TMP.replace(" " , "%20")
     request = urllib2.Request(TMP , "")
